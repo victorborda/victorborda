@@ -12,4 +12,5 @@ Pretty much always interested in Open Street Map and Geospatial data. So also wo
 
 
 📫 How to reach me: victor.borda.me@gmail.com
+
 😄 Pronouns: He/Him
