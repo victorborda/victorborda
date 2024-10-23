@@ -10,5 +10,6 @@
 Pretty much always interested in Open Street Map and Geospatial data. So also working with
 - PostGIS, TIGER/Line, Osm2psql, PgOsmFlex, GDAL, MapLibre.js
 
-- 📫 How to reach me: victor.borda.me@gmail.com
-- 😄 Pronouns: He/Him
+
+📫 How to reach me: victor.borda.me@gmail.com
+😄 Pronouns: He/Him
