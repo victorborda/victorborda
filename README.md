@@ -13,7 +13,7 @@ I have several publicly available docker images for folks to use. Two of them ar
 - [PostgresSQL running PostGIS and related extensions for OSM, Geocoding, and Routing](https://hub.docker.com/r/therapeuticyoga/postgis-osm-geo-route-amd)
 - [Python with GDAL as base for Django](https://hub.docker.com/r/therapeuticyoga/django-geo-base-amd)
 
-Other skills of note:
+Other skills, things I've architected or dev'd with in production scenarios:
 - C++, Swift, iOS, RabbitMQ, Kafka, FastAPI
 
 📫 How to reach me: victor.borda.me@gmail.com
