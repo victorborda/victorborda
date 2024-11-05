@@ -17,6 +17,7 @@ I have several publicly available docker images for folks to use. Two of them ar
 Also here on github:
 - [Software Development Guide - my thoughts on positive software development practices](https://github.com/victorborda/software-dev-guide)
 - [Interesting Papers - a collection of papers that I think are really interesting, mostly with an algorithm or ML focus:](https://github.com/victorborda/interesting-papers)
+- [Patents - that I've been a part of](https://github.com/victorborda/patents)
 
 Other skills, things I've architected or dev'd with in production scenarios:
 - C++, Swift, iOS, RabbitMQ, Kafka, FastAPI
