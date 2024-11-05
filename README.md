@@ -1,6 +1,6 @@
 ## def about(me): 👋
 
-As a Director and Senior Director for engineering and data science, I have led teams on many successful projects. My thoughts on engineering organization ethos and practical application of good software strategies is encapsulated here:
+As a Director and Senior Director for engineering and data science, I have a lot of experience leading teams on software projects. My thoughts on engineering organization ethos and practical application of good software strategies is encapsulated here:
 - [Software Development Guide - my thoughts on positive software development practices](https://github.com/victorborda/software-dev-guide)
 
 As a software architect and coder, which I also love doing, currently (Fall 2024) is primarily:
