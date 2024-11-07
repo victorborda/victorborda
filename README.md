@@ -14,12 +14,12 @@ Pretty much always interested in Open Street Map and Geospatial data. Thus, also
 - PostGIS extensions, TIGER/Line, Osm2psql, PgOsmFlex, GDAL, MapLibre.js
 
 I have several publicly available docker images for folks to use. Two of them are:
-- [PostgresSQL running PostGIS and related extensions for OSM, Geocoding, and Routing](https://hub.docker.com/r/therapeuticyoga/postgis-osm-geo-route-amd)
+- [PostgresSQL + PostGIS plus extensions for OSM, Geocoding, and Routing](https://hub.docker.com/r/therapeuticyoga/postgis-osm-geo-route-amd)
 - [Python with GDAL, OpenCV, Rasterio, PyTorch and Jupyter for geo focused data science](https://hub.docker.com/repository/docker/therapeuticyoga/opencv-rasterio-jupyter-amd/general)
 
 I love a good research paper. I've also co-authored a number of patents:
 - [Interesting Papers - a collection of papers that I think are really interesting, mostly with an algorithm or ML focus](https://github.com/victorborda/interesting-papers)
-- [Patents - that I've been a part of](https://github.com/victorborda/patents)
+- [Patents - that I've been a part of, including AI & ML](https://github.com/victorborda/patents)
 
 Other skills, things I've architected or dev'd with in production scenarios:
 - C++, Swift, iOS, RabbitMQ, Kafka, FastAPI
