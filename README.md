@@ -21,9 +21,6 @@ I love a good research paper. I've also co-authored a number of patents:
 - [Interesting Papers - a collection of papers that I think are really interesting, mostly with an algorithm or ML focus](https://github.com/victorborda/interesting-papers)
 - [Patents - that I've been a part of, including AI & ML](https://github.com/victorborda/patents)
 
-Other skills, things I've architected or dev'd with in production scenarios:
-- C++, Swift, iOS, RabbitMQ, Kafka, FastAPI
-
 📫 How to reach me: victor.borda.me@gmail.com
 
 😄 Pronouns: He/Him
