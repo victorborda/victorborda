@@ -10,7 +10,7 @@ As a software architect and coder, which I also love doing, currently (Fall 2024
 - AWS AppRunner, EC2, RDS, VPC, IAM, Route53
 - Docker, Kubernetes (k8s), Orbstack, EKS, EC2
 
-Pretty much always interested in Open Street Map and Geospatial data. Thus, also working with
+I'm pretty much always interested in Open Street Map and Geospatial data. Thus, also working with
 - PostGIS extensions, TIGER/Line, Osm2psql, PgOsmFlex, GDAL, MapLibre.js
 
 I have several publicly available docker images for folks to use. Two of them are:
