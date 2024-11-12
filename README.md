@@ -15,7 +15,7 @@ I'm pretty much always interested in Open Street Map and Geospatial data. Thus, 
 
 I have several publicly available docker images for folks to use. Two of them are:
 - [PostgresSQL + PostGIS plus extensions for OSM, Geocoding, and Routing](https://hub.docker.com/r/therapeuticyoga/postgis-osm-geo-route-amd)
-- [Python with GDAL, OpenCV, Rasterio, PyTorch and Jupyter for geo focused data science](https://hub.docker.com/repository/docker/therapeuticyoga/opencv-rasterio-jupyter-amd/general)
+- [Base image with GDAL installed plus libraries that power geo-focused Django installs](https://hub.docker.com/repository/docker/therapeuticyoga/django-geo-base-amd)
 
 I love a good research paper. I've also co-authored a number of patents:
 - [Interesting Papers - a collection of papers that I think are really interesting, mostly with an algorithm or ML focus](https://github.com/victorborda/interesting-papers)
