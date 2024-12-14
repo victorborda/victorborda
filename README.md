@@ -6,9 +6,9 @@ As a Director and Senior Director for engineering and data science, I have a lot
 As a software architect and coder, which I also love doing, currently (Fall 2024) I'm primarily working with:
 - Python, Django, Typescript, React.js, React Native
 - PostgreSQL, PostGIS
-- PyTorch, Flyte, Helm, Airflow
-- AWS AppRunner, EC2, RDS, VPC, IAM, Route53
-- Docker, Kubernetes (k8s), Orbstack, EKS, EC2
+- PyTorch, Airflow, Flyte
+- AWS AppRunner, RDS, SQS, Lambda, VPC, IAM, Route53, ECR, EC2
+- Docker, Dockerhub, Kubernetes (k8s), Orbstack
 
 I'm pretty much always interested in Open Street Map and Geospatial data. Thus, also working with
 - PostGIS extensions, TIGER/Line, Osm2psql, PgOsmFlex, GDAL, MapLibre.js
